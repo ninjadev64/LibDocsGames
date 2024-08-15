@@ -6,7 +6,7 @@ A simple wrapper for Apps Script to make games in Google Docs!
 2. Choose a background colour. Then, open Table Properties > Colour and change the table border and cell background colour to your background colour.
     1. You may also change the border width to the minimum (1px).
 3. Open a new Apps Script for that document.
-4. Include the library in your project with the script ID `1ygkKDEaJU9XMspL1YIkzxbqsWYQtQ9DawlfTqfEcJlKm4UEOBeVR2lGL`. Select the latest version.
+4. Include the library in your project with the script ID `1TVNLNUVjg0p4qKgpUw0WDXyAhwM0gd0lFrenq6e0DVGEaeYohpIBqq05`. Select the latest version.
 
 ### Basic demo
 In this game, you, the frog, can move left and right. If you touch the duck, the game ends.
@@ -57,14 +57,6 @@ function frogHop() {
 
 **A.** When an image is redrawn, the browser has to reload it. A key way to fix this is use tiles for static game objects, which are never redrawn.
 
-
-
 **Q.** Can I see the source?
 
 **A.** Sure! The library is public, and you can use the script ID to find it.
-
-
-
-**Q.** Help!
-
-**A.** Join my Discord! [https://discord.gg/jyJJWjqbFP](CitrusDev)
